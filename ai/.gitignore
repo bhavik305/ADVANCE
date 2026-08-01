@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+outputs/
+data/interim/
+data/processed/
+logs/
+*.log
+.DS_Store
